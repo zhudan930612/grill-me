@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Stress-test plans, docs, content, and designs"
+  default_prompt: "Use $grill-me to relentlessly challenge this plan, document, content piece, or design until weak assumptions are exposed."
